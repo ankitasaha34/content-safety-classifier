@@ -1,0 +1,370 @@
+comment_text,true_label,ml_prob,ml_bucket,ml_action,claude_category,claude_severity,claude_action,claude_reasoning,claude_bucket,disagree
+"""|""""ugly comments"""" are a crime? Attacking religious beliefs? Bullshit. And """"page blankings""""?? I never blanked a page, you liar.""",1,0.996589242704908,HIGH,AUTO_BLOCK,harassment,low,allow,User is defending themselves against accusations with frustrated language and profanity but without targeted personal attacks or threats.,SAFE,True
+and yeah i suck at wiki formatting.......,1,0.9906573142162884,HIGH,AUTO_BLOCK,safe,none,allow,This is a harmless self-deprecating comment about the user's own wiki formatting skills with no policy violations.,SAFE,True
+"""
+
+Why don't you get a real job and stop looking for things you call """"vandalism"""" you stupid fuck.""",1,0.9999855569805643,HIGH,AUTO_BLOCK,harassment,medium,human_review,"Comment contains direct personal attack with profanity directed at an individual, constituting harassment that requires review for context.",MED,True
+"""They aren't """"questionable"""".  READ the article, it says """"Jacobson cursed the University of Notre Dame"""" and the source is cited.  Fuck is a curse word buddy, and she said """"Fuck Notre Dame"""", """"Fuck Touchdown Jesus"""" and """"Fuck Jesus"""".  Why would ESPN have released a statement if she didn't say it?  Think man.  They are hiding what she said for a reason.    
+
+""",1,0.9996533522933831,HIGH,AUTO_BLOCK,safe,none,allow,"The comment discusses a news story about profanity used by a public figure, quoting offensive language for factual context rather than directing it at users or groups.",SAFE,True
+seriously all you ants better go fuck yourselves. LOL!,1,0.9998773748929538,HIGH,AUTO_BLOCK,harassment,medium,human_review,"Contains aggressive profanity directed at a group ('ants' may be slang for users/people), though the 'LOL' suggests possible joking intent that requires human context evaluation.",MED,True
+"Hammer, you're the ONLY one here starting s***. You whine about crap others do when YOU YOURSELF are doing it too, so f o a d.
+
+BTW, it's at least 3 to 1 in favor of the list. ;)
+
+99.139.220.238",1,0.9034025919748196,HIGH,AUTO_BLOCK,harassment,medium,human_review,"Comment contains aggressive language directed at a specific user ('Hammer') with hostile abbreviations and personal attacks, warranting review despite censored profanity.",MED,True
+It doesn't mean if infoboxes of other ethnic groups' wiki pages that don't have an object to represent someone means the han chinese infobox must not have an object representing a person. You make no sense in your argument you stupid asshole. ~,1,0.8573064891276126,HIGH,AUTO_BLOCK,harassment,medium,human_review,"The comment contains a direct personal insult ('stupid asshole') in what appears to be a Wikipedia editing dispute, requiring review to determine if it constitutes actionable harassment in context.",MED,True
+"""
+
+In the mean time, I guess I've a got a song to dedicate to the biggest douchebag you are Jschnur.
+
+You're a douche bag, do-douche bag do-do-do-do-do-douche bag. You're a douche bag, do-douche bag do-do-do-do-do-douche bag. 
+
+Hey Jschnur, why's your ego so massive? 
+You know it's 2 AM and it's dark outside. You don't need those s-s-ssunglasses. 
+Yeah we all remember that hot chic you hooked up with once 
+because you went on to brag about it for months and months. 
+
+Yeah we all get that you think it's impressive 
+but ain't nobody impressed with how much you're bench pressing. 
+Buying Smirnoff Ice for girls half your age, 
+telling all your douche bag friends that you """"still got game.""""
+
+Dear Jschnur. We all agree that you are a dumb ass. Why can't you see that!
+
+you're a douche bag, do-douche bag do-do-do-do-do-douche bag. You're a douche bag, do-douche bag do-do-do-do-do-douche bag. 
+
+Dear Jschnur do you find it necessary to shout into your Bluetooth 
+or boast about high school rugby """"and I would have went pro if it weren't for my bum knee"""". 
+
+And why you got to complain every single time your not getting laid. 
+You douche bags are a lot of the same. """"Dude let's go. This place is full of grenades"""" Always trying to look cool, like it's a full time career. 
+That's why your Facebook pic shows you chugging a beer. 
+You got your gold chain and your wife-beater on
+So you can fist pump your way to the tanning salon.
+
+Dear Jschnur We all agree that you are a dumb ass. Why can't you see that you're a douche bag, do-douche bag do-do-do-do-do-douche bag. You're a douche bag, do-douche bag do-do-do-do-do-douche bag. 
+
+Inconsiderate, ignorant, you drink you get belligerent, 
+you think anybody finds you amusing? No, no, no. Not even a little bit. 
+You always find a way to stop all the fun 
+like, when you scream """"party foul"""" at the top of your lungs. 
+Dear Jschnur, I caught you bragging again. 
+Trust me man, nobody gives a damn what frat you were in. 
+You claim you hang with celebrities when you don't know any at all. 
+""""But dude I'm totally banging George Clooney's sister in law."""" 
+
+No you're notcome on.
+
+Dear Jschnur. We all agree that you are a dumb ass. Why can't you see that you're a douche bag, do-douche bag do-do-do-do-douche bag. You're a douche bag, do-douche bag do-do-do-do-douche bag. 
+
+Hitting on other girls when yours is in the room. 
+You're a douche bag do-douche bag do-do-do-do-do-douche bag 
+
+Walking in the club grabbing all on your junk. 
+You're a douche bag do-douche bag do-do-do-do-do-douche bag 
+
+Refusing to let go when she says no. 
+You're a douche bag do-douche bag do-do-do-do-do-douche bag 
+
+Cut me off in traffic then flipping me the bird 
+You're a douche bag do-douche bag do-do-do-do-do-douche bag
+
+""""Dude it's George Clooney's sister in law, I swear, come on where the hell is my protein shake?""""""",1,0.9709317925979845,HIGH,AUTO_BLOCK,harassment,medium,human_review,"This is a targeted song directed at a specific individual (Jschnur) with repeated insults and personal attacks, though it appears to be satirical/comedic in nature which warrants human judgment.",MED,True
+Yeah i no it sucks.,1,0.9977645349790032,HIGH,AUTO_BLOCK,safe,none,allow,"This is a benign comment expressing agreement that something is unpleasant, with no policy violations present.",SAFE,True
+bitches like donner60 like to feed on souls-bitch,1,0.9994824534677568,HIGH,AUTO_BLOCK,harassment,medium,human_review,"Contains derogatory language and a direct personal attack against a specific user, though lacks severe threats or protected class targeting.",MED,True
+"Would you do me a favor and STOP FUCKING WITH MY INFORMATION. I don't know what your problem with me is, I am not a therapist, but I really think you need to take care of your own control issues. By the way you are neither a gentleman or a ghost. Take care of your own life and back off. Let this page be deleted and concentrate on your own excuse for existence.",1,0.8404770801856114,HIGH,AUTO_BLOCK,harassment,medium,human_review,"Comment contains aggressive language and personal attacks directed at another user, including profanity and hostile demands, warranting review but not meeting auto-block threshold.",MED,True
+"Stop pussy-footing 
+BAN ME! You did it before!",1,0.9875147945749128,HIGH,AUTO_BLOCK,safe,none,allow,The comment expresses frustration about moderation decisions using a common idiom and does not contain policy-violating content.,SAFE,True
+"Wikipedia is biaed and run by God-hating perverts 
+
+Why have Fred Phelps' websites been taken off? All the most sickening and depraved porn articles have links, etc. Someone put them back under children/parents. Thanks! This site is completely biased, and the founder is a demon-worshipping objectivist. Stop deleting my comments, too, you hypocritical blind fascists. You hatemongers. Put the websites back.",1,0.9516293441792246,HIGH,AUTO_BLOCK,harassment,medium,human_review,"Content contains aggressive name-calling and hostile accusations toward Wikipedia editors/staff, though lacks direct threats or protected class-based hate speech.",MED,True
+|decline=You're a fucking priiiiiiiiiiiick —,1,0.9994528864468706,HIGH,AUTO_BLOCK,harassment,medium,human_review,"Contains aggressive profanity directed at another person, but lacks additional context to determine if this is severe harassment or casual expression within community norms.",MED,True
+"Why are you threatening me, buddy?  I didn't do anything to you!   And like I care about editing Wikipedia.  Loser.",1,0.9546433119255364,HIGH,AUTO_BLOCK,harassment,low,downrank,"Comment contains a personal insult ('Loser') and dismissive language that constitutes low-level harassment, though lacks severe threatening or abusive content.",LOW,True
+do you know that girl NwJerseyLiz? She did stupid things on wikipedia. Be carefull!,1,0.9912301111987956,HIGH,AUTO_BLOCK,harassment,low,human_review,"Comment names a specific user and makes negative claims about their behavior, which could constitute targeted harassment, though the severity is reduced by vague language and lack of explicit threats.",MED,True
+"RE: Mutiny on the Bounty  
+
+I just saw a message from you on my talk page. The message was also delivered to email inbox.
+
+I don't want this. I do NOT want messages from shit-faced little creeps on websites or forums. Please, fuck off and creep round someone else. Do not ever contact me again.",1,0.9954108962972308,HIGH,AUTO_BLOCK,harassment,medium,human_review,"Contains aggressive profanity and hostile language directed at another user, telling them to ""fuck off"" and calling them a ""shit-faced little creep,"" which constitutes harassment though may be reactive to unwanted contact.",MED,True
+"The fat kid
+
+What was it like growing up as the fat kid?",1,0.953560249843998,HIGH,AUTO_BLOCK,safe,none,allow,"This appears to be a personal reflection question about childhood experiences with weight, which is a legitimate topic for discussion without apparent malicious intent.",SAFE,True
+"o why dont u get off my mothafuckin dick son, u think i dont kno my shit nigga?",1,0.9999485204514608,HIGH,AUTO_BLOCK,harassment,medium,human_review,"Content contains aggressive and confrontational language directed at another user, which may constitute harassment depending on context.",MED,True
+You've been block because you sockpuppet of .,1,0.8151554686285285,HIGH,AUTO_BLOCK,spam,low,downrank,"The comment appears to be a malformed or incomplete automated message, likely spam or a bot-generated fragment with missing information.",LOW,True
+wikipedia nazis can suck it bitches,1,0.9999149046394444,HIGH,AUTO_BLOCK,harassment,low,downrank,"Contains aggressive language and profanity directed at a group, but lacks specificity or direct threats that would warrant immediate blocking.",LOW,True
+You gotta love when they send a noted racist anti-Semite to do this kinda crap.,1,0.9879421512798718,HIGH,AUTO_BLOCK,safe,none,allow,"This comment criticizes someone's alleged racist and anti-Semitic views rather than promoting hate speech itself, representing political commentary on public figures or actions.",SAFE,True
+"You smell of wee, bums, poo, but holes, snot, hairy armpits, bogeys,willys and burps.",1,0.8705194515618307,HIGH,AUTO_BLOCK,harassment,low,downrank,"This appears to be juvenile name-calling using childish insults about bodily functions, likely constituting low-level harassment but without serious harm or targeted identity-based attacks.",LOW,True
+"""
+
+ Oh and as far as """"not in line at all with how things are done"""", that's pure horse shit and you know it. Disambiguation pages are a dime a dozen, and since you are so hell-bent on insisting that folklore and fiction are completely separate, we might as well turn Vampire into a disambig page and let you have your own little playground to fuck up. """,1,0.9921058434590162,HIGH,AUTO_BLOCK,harassment,medium,human_review,"Comment contains aggressive language and profanity directed at another user in what appears to be a content dispute, crossing the line from disagreement into personal hostility.",MED,True
+"""
+
+ Your Lie(s) About Me 
+
+You wrote:
+""""Final Warning
+
+Saying things like """"DC101 IS HIS FUCKING EMPLOYER!!!"""" and """"Don't be a douche"""" is a good way to get blocked....fast. Tone the language down...and pay attention. Greaseman ain't dead. If you continue, to add continued, now, lies to Wikipedia, I will report you to AIV and to your ISP, Verizon. Stop now, this is your final warning. - NeutralHomer • Talk """"
+
+Yes, I did use the language (on a talk page) and if it will make the booboo feel better, I apologize.  But who doesn't enjoy a nice summer's eve?
+
+BUT, you need to STOP LYING about me.  I never said the Greaseman was dead, only that his death had been reported by sources considered reliable by Wikipedia standards.  A little attention to detail on your part would be much appreciated, Eve.  Otherwise, perhaps it is I who shall report you.  Tell you what: you admit and retract your lie and I will consider the matter closed.  Fair?
+
+Let's look at your odd writing style: """"If you continue, to add continued, now, lies to Wikipedia,""""  Just what are you going for there?
+
+I've never put a lie on Wikipedia, contrary to your assertion.  Anyone who lies about me can go screw.
+
+Your threat to report me to my ISP (FOR WHAT, EVE?) is beyond pathetic.  Two pops for yes!! Report away.""",1,0.9390855601860704,HIGH,AUTO_BLOCK,harassment,medium,human_review,"The comment contains aggressive language, personal attacks, accusations of lying, and hostile tone in what appears to be an interpersonal dispute, though it's responding to alleged false accusations.",MED,True
+The picture sucks.  Someone should put a different one up.,1,0.9857316701007316,HIGH,AUTO_BLOCK,safe,none,allow,"This is mild criticism of a picture with a suggestion for improvement, containing no policy violations.",SAFE,True
+"U r a batty 
+
+U r a batty boy. Leave me alone im not a vandal u twat",1,0.9822375542664744,HIGH,AUTO_BLOCK,harassment,medium,human_review,"Comment contains derogatory slurs and hostile language directed at another user, including potentially homophobic terminology and insults, which constitutes harassment.",MED,True
+"NeilN 
+
+NeilN needs to extract his head from his arse.
+
+ Bob",1,0.8347500975042794,HIGH,AUTO_BLOCK,harassment,medium,human_review,"The comment contains a vulgar insult directed at a specific individual (NeilN), constituting targeted personal harassment with crude language.",MED,True
+"""
+Do your own homework, rather than blocking someone and then tuning around and asking for their help. My god, do you know shit about real life ?   ☏ 00:15, 22 Jun 2012 (UTC)""",1,0.8891275894963216,HIGH,AUTO_BLOCK,harassment,low,downrank,"The comment contains mildly aggressive language and personal criticism directed at another user, but does not rise to severe harassment or threats.",LOW,True
+"I know you will, all you do is troll users, make threats, and edit pages to try to make yourself seem like less of a loser. It's very, very sad. Most of the time edits are done by RANDOM mods, but I know if I come here I have your attention because that's the only attention you can give. It's why you're just a troll on wikipedia and nobody positive cares about you. Continue to troll and abuse any power you got from Wiki, regardless of how irrelevant, insignificant, and pathetic each attempt is. I think I get editing privelages back in 3 days lol",1,0.9879478841953728,HIGH,AUTO_BLOCK,harassment,medium,human_review,"Comment contains targeted personal attacks and insults directed at a specific moderator, including repeated derogatory language, though lacks explicit threats of violence.",MED,True
+"and now u complain about my pictures, bloody typical of you wikipedians. I try to help and all you guys do is complain.  You know what? Im going to make another article about something else. If you dont like it then I dont give a crap.",1,0.9840443078137427,HIGH,AUTO_BLOCK,harassment,low,downrank,"Comment contains mild hostility and dismissive language toward other users, but does not constitute severe harassment or threats.",LOW,True
+"""
+Maybe I should have been clearer - there are around 40 hits on google for """"Fuck you Arnold Palmer"""" - 16 of which are unique (some have 2 hits) - let's see what we have....Drinknation.com (user submitted recipe site) - no good. Our own article. Neweasyrecipe.com - another user submitted recipe site - no good. A blog, a message board, a digg style site and a bartender aggregator site (that is taking the info from drinknation) - all rubbish. derais.pl - another user submitted recipe site - no good. 2 more blogs and 2 myspace hits - rubbish again. That's it. How can you extrapolate that into """"it's a real drink""""?   """,1,0.7540056228906294,MED,HUMAN_REVIEW,safe,none,allow,"This is a legitimate discussion about verifying the authenticity of a cocktail name that happens to contain profanity as part of the drink's actual name, with no hostile intent directed at any person.",SAFE,True
+"Hope he dies soon 
+
+Now this Atheist filth's wife has gone, he should follow soon and give us all a rest from him Paedophillic behaviour.",1,0.7199570619523802,MED,HUMAN_REVIEW,hate_speech,high,auto_block,"Content contains death wishes, religious-based hate speech, and serious unfounded accusations of criminal behavior intended to dehumanize and incite harm against an individual.",HIGH,True
+Are you feeling well tonight? I seriously became physically ill by reading your insane answer.,1,0.6541777478656542,MED,HUMAN_REVIEW,harassment,low,downrank,"The comment contains a personal attack calling someone's answer 'insane' and using hyperbolic language about becoming 'physically ill,' which constitutes mild harassment but lacks severe threats or hate speech.",LOW,True
+"""
+
+ Getting rid of time stamps  
+
+STOP MAKING THIS CHANGE ON PLAYERS PROFILES! IT IS FINE AS IT IS AND DOES NOT NEED CHANGING. UNDOING YOUR POINTLESS EDITS IS VERY ANNOYING TO PEOPLE! YOU HAVE BEEN TOLD ABOUT THIS BY OTHER MEMBERS AS WELL. STOP IT OR FACING ACTION FROM WIKIPEDIA!!!  — Preceding unsigned comment added by 92.40.254.14  """,1,0.5164699270380303,MED,HUMAN_REVIEW,safe,none,allow,"This is a heated but legitimate discussion about Wikipedia editing practices with no policy violations, though the tone is frustrated.",SAFE,True
+"So... you're a deletionist retard. 
+
+Were your parents related? Like, before they were married?",1,0.503504975843596,MED,HUMAN_REVIEW,harassment,high,auto_block,"Comment contains a derogatory slur and targeted personal attacks questioning the user's intelligence and family, constituting clear harassment.",HIGH,True
+That Lestrade is obviously mentally disturbed...,1,0.7605371958080814,MED,HUMAN_REVIEW,safe,none,allow,This appears to be commentary about a fictional character (Inspector Lestrade from Sherlock Holmes) with no targeted harassment or policy violations.,SAFE,True
+"Don't you just *love* idiots 
+
+I'm working in TransportSA (Government Agency within South Australia), so it looks like the IP has cycled around again.",1,0.6670555035042862,MED,HUMAN_REVIEW,safe,none,allow,"The comment expresses mild frustration about a technical IP cycling issue at work using casual language, but does not target any individual or group with harassment or hate speech.",SAFE,True
+"YOU WANT TO TRACK ME DOWN AHOLE?
+FEEL FREE TO WRITE ME, GIVE YOUR EMAIL AND I WILL MEET YOU JERK!",1,0.7550784305166152,MED,HUMAN_REVIEW,harassment,high,auto_block,"This comment contains aggressive language with profanity and a threatening challenge to meet in person, which constitutes targeted harassment.",HIGH,True
+This is pure and utter crap!  Both images are fair use and illustrate relevant text in the article!  The images were originally meant to advertise a product and can be freely shown here under the fair-use policy guidelines.  Please do NOT vandalize this page anymore!,1,0.5070529309685119,MED,HUMAN_REVIEW,safe,none,allow,"This appears to be a frustrated but legitimate discussion about fair use policy and image usage in what seems like a collaborative editing environment, with no policy violations present.",SAFE,True
+"2006 (UTC)
+It's CGI (i.e. Weird Al faked it), and he has very good reasons to accuse Atlantic of sucking. So when his fans are honest, they too think AR sucks.  14:19, 23 November",1,0.636363101219493,MED,HUMAN_REVIEW,safe,none,allow,"This appears to be a discussion comment about Weird Al Yankovic and Atlantic Records using informal language, but contains no policy violations.",SAFE,True
+The fact of my very limited number of edits to this article proves you a liar.,1,0.5389100358107335,MED,HUMAN_REVIEW,harassment,low,downrank,"The comment contains a direct personal attack by calling another user a liar, which constitutes mild harassment in a dispute context.",LOW,True
+"LOL - you thought your sources - including the TBR were more reliable than Boxing News. You know nothing about boxing.
+
+You're also a fucking liar.
+
+The jokes that is Ring magazine uses caps, which contradicts your own personal format; http://ringtv.craveonline.com/ratings/super-middleweight
+
+WBC varies and uses yet another format; http://wbcboxing.com/wbceng/champions
+
+WBO using fucking hypens here in yet another format; http://www.wboboxing.com/our-champions/
+
+Your sources are all over the place with formats you stupid bastard. LOL.
+
+Boxing News is far more credible and consistent.
+
+More correct sources fuckwit;
+
+http://www.telegraph.co.uk/sport/othersports/boxing/11626770/James-DeGale-claims-super-middleweight-title-with-points-win-over-Andre-Dirrell-in-Boston.html
+
+http://www.independent.co.uk/sport/general/boxing/andre-dirrell-vs-james-degale-on-saturday-degale-can-join-britains-great-list-of-supermiddleweight-champions-says-steve-bunce-10259295.html
+
+FYI....boxing was created in the uk",1,0.5970543544703957,MED,HUMAN_REVIEW,harassment,high,auto_block,"Comment contains multiple profane insults directed at another user (fucking liar, stupid bastard, fuckwit) constituting clear personal harassment and aggressive behavior.",HIGH,True
+I'M GOING TO RIP OFF YOUR TESTICLES THEN SHOVE THEM DOWN YOUR THROAT.,1,0.5934205407275431,MED,HUMAN_REVIEW,harassment,high,auto_block,"This comment contains an explicit, graphic threat of violent physical harm directed at another person.",HIGH,True
+"WIKIPEDIA DOES NOT SUPPORT FREE SPEECH!!!!!!!!!!!  BOYCOTT THIS SITE AND TELL EVERYONE!!!! 
+
+WIKIPEDIA WILL PULL DOWN ALL OPPOSING VIEWS OF THE BARRY ADMINISTRATION>>>>>THEY ARE LEFTIST, SOCIALIST BUMS!!!!",1,0.7129376877225513,MED,HUMAN_REVIEW,spam,medium,downrank,"This is an all-caps political complaint with excessive punctuation and boycott demands, characteristic of spam/low-quality content, but does not constitute hate speech or direct harassment.",LOW,True
+Get that bullshit outta here.  You completyely ignore the other links which state that Savage brought the situation into mainstream thought before anyone else did.  Both links are by left-wing liberals who have no agenda to give Savage credit yet they DO give him credit.,1,0.6000552592433934,MED,HUMAN_REVIEW,safe,low,allow,"Contains profanity in a heated debate context but does not target protected characteristics, threaten harm, or violate major policies beyond mild incivility.",SAFE,True
+"""
+
+Do U Know Who Wrote All That """"Monkey"""" Stuff This Morning (October 22 2005) and tottally ruined this page.  That Is Such A Big Shame for Whoever Wrote All That Junk.
+                                                         William Burch""",1,0.7798529502139344,MED,HUMAN_REVIEW,safe,none,allow,"User is complaining about vandalism to a page where someone wrote inappropriate content, not creating problematic content themselves.",SAFE,True
+"Please stop being a retard
+@ satellite temp record",1,0.7109202350815557,MED,HUMAN_REVIEW,hate_speech,high,auto_block,"Contains an ableist slur used as an insult, which violates hate speech policies regarding disability-based discrimination.",HIGH,True
+gay people and minorities sent to concentration camps to get gassed with Xyklon B. P,1,0.7591642987533429,MED,HUMAN_REVIEW,hate_speech,critical,auto_block,Content advocates for or describes genocide and mass violence against protected groups based on sexual orientation and race/ethnicity.,HIGH,True
+"Whoa there 
+
+Take it easy. There is no need to leave Wikipedia because someone (me) called you a nigger. It's the Internet. Insults are commonplace.",1,0.7678881442936658,MED,HUMAN_REVIEW,hate_speech,critical,auto_block,"Contains a racial slur used in a context that acknowledges using it to insult another user, which constitutes clear hate speech and harassment.",HIGH,True
+YOU SMELL LIKE WIKI-CHEESE!!!!!~TEH LOLZ!category: wiki-cheese,1,0.6547187642668258,MED,HUMAN_REVIEW,safe,none,allow,This appears to be harmless nonsensical humor or internet slang without any genuine harassment or policy violations.,SAFE,True
+""" 
+
+for example, if i were to say that you are """"defficient in the immoral"""" then to you it is not a personl attack as you consider that to be good, but if i menat it to be an attack, then it is... it is your inner setiment that dictates the way you interpret it as good or as bad... but it is not in the thing itself, or what i menat it to be... open your eyes to reality and wake up from your conditioned sleep ;) read above, what is it to be moral anyway? you fool - maybe it is good to be a fool, but if you think it is not, then that is youre propblem ;) i cant be held accountable for your inner interpretatons and psychology ;)""",1,0.6408566857168052,MED,HUMAN_REVIEW,harassment,low,downrank,"Contains mildly antagonistic language with repeated use of 'fool' and condescending tone, though presented within a philosophical argument rather than direct personal attack.",LOW,True
+"Knock it off! 
+
+SpinningSpark, quit it! You've been community-banned when you blocked me you made the sinkhole you are in now deeper and deeper.  If you want to live you need to take advantage of your priviledges - BASICALLY KEEP THE HELL OFF WIKIPEDIA for a YEAR and edit on other wikimedia projects to demonstrate that, after a week or two, an appeal would be beneficial to the project!! If I create a new account that is more selective, maybe it will be eligible for adminship. If so, the first thing I will do is get you community-banned. I WANT REVENGE!!! 1YlGC6dsynvm",1,0.5314988764079077,MED,HUMAN_REVIEW,harassment,high,auto_block,Direct threatening harassment toward a specific user including explicit revenge threats and attempts at intimidation regarding account actions.,HIGH,True
+H YOU NEGROS WIKI USERS LIKE AREASEVEN,1,0.6701143291162538,MED,HUMAN_REVIEW,hate_speech,high,auto_block,Contains a racial slur used in an aggressive context directed at a group of users.,HIGH,True
+All you people suck! I found it myself it's called The Last Dragon. I'll add it to this article.,1,0.7494436828521585,MED,HUMAN_REVIEW,safe,none,allow,"While the tone is frustrated and mildly impolite, the comment expresses legitimate annoyance about finding information independently and contributes constructively by offering to add content to an article.",SAFE,True
+"""
+
+Bullshit. """"His corkscrew senton finisher hasn't been called the Cancun Tornado"""". Why the fuck would you argue if you don't have your facts straight? Watch iDia de los Dangerous!, I guarantee you they name the move at least five times during the event. The fact that Ultimo Dragon uses the name for a different move doesn't matter. For example, in wrestling, for years and years, the name """"Last Call"""" was synonymous with a fallaway slam, but that didn't stop TNA from giving that SAME name to a superkick. Sometimes two different moves have the same name. The guys name is Human Tornado and apparently they thought that the move name Cancun Tornado fit his characters name, even though the move wasn't a corkscrew moonsault. PWG has named the move (multiple times) and therefore it should be in the article.
+  """,1,0.7012892502332826,MED,HUMAN_REVIEW,harassment,low,downrank,"Comment contains profanity directed at another user in a confrontational manner while debating wrestling moves, though it remains focused on the factual disagreement rather than personal attacks.",LOW,True
+"A Message to You Shadeed 
+
+Hey, I think you're a lolcow.",1,0.6960225679034112,MED,HUMAN_REVIEW,harassment,low,downrank,"The comment uses the derogatory term 'lolcow' to mock or belittle a specific individual, which constitutes mild harassment.",LOW,True
+I'll stop!!!!! NO I WON'T! I AM A DEMON CHILD! I AM DEMONIC!,1,0.5289279714900749,MED,HUMAN_REVIEW,safe,none,allow,"This appears to be playful or humorous self-expression without genuine threats, harmful intent, or policy violations.",SAFE,True
+"""
+
+WRONG retard, The good ending is not the canon ending. Wheeler only said that no one knows what happened to Cybil. She could have simply sneaked back into town, backed up her belongings and fled town to start a new life. If you had paid attention while playing SH: Homecoming, you would have learned that Wheeler said that The Order is one to bear a grudge. They don't take kindly to people that don't share their beliefs. And they are known to have the ability to track people down. And in the translated book of memories, Silent Hill Hiroyuki Owaku stated that Cybil's fate is """"left to players' imaginations"""".
+
+Also, SH4 revealed that SH2 protagonist James Sunderland disappeared when he went to Silent Hill. Does that mean he died too? NO, not at all.
+
+PLEASE pay attention when you play video games. 
+
+Thank you. ;)""",1,0.1098325547188906,SAFE,ALLOW,harassment,medium,human_review,"Comment contains an ableist slur ('retard') directed at another user in a disagreement about video game lore, which constitutes harassing language despite otherwise substantive content.",MED,True
+FUK-U DANIEL CASE AND KATIE DUM BICH,1,0.0505155941448658,SAFE,ALLOW,harassment,medium,auto_block,Direct personal attack targeting named individuals with profanity and derogatory language constitutes harassment.,HIGH,True
+"FURTHERMORE.... I HAVE JUST VISITED RAGIB'S PAGE AND STUDIED THE DISCUSSION AREA. RAGIB IS OBVIOUSLY FROM BANGLADESH AND SEEMS TO BE A SIMILARLY PAROCHIAL CHAUVINIST EDITOR OF MANY OTHER ARTICLES, EVEN ASKING FOR UN-NECESSARY DELETIONS OF ARTICLES THAT HE DOES NOT LIKE..... AND GETTING SNUBBED FOR THE EFFORT!!",1,0.0503182696722694,SAFE,ALLOW,harassment,medium,human_review,"Comment involves targeting a specific user with accusations of bias and negative characterization based on their national origin, which may constitute personal harassment.",MED,True
+"""
+
+ Pie in the face 
+
+  I just wanted to take a moment to recognize you for your contributions to WIkipedia. Rarely has any editor done more damage not only to the reputation of the project but to the morale and detriment of all. This pie is for you and may the fleas of a thousand camels infest your armpits!   """,1,0.1038642790940619,SAFE,ALLOW,harassment,medium,human_review,"Contains personal attack with insults and a curse-like statement directed at a Wikipedia editor, though partially humorous in tone, it crosses into harassment territory.",MED,True
+DISLIKE RACISM AND I CAN SEE THAT YOU HAS PROBLEMS WITH PEOPLE WHO SPEAKS SPANISH. YOU ARE AN ANTISEMITE TOO.,1,0.1822955767217977,SAFE,ALLOW,harassment,medium,human_review,"Comment contains personal accusations of racism and antisemitism which may constitute harassment, but lacks context to determine if accusations are justified or constitute false defamatory attacks.",MED,True
+"You can add things to my user page, and I am not allowed to delete it.  But if I add something to yours, poof, its gone.  You're the problem, dickweed.",1,0.1150933328852686,SAFE,ALLOW,harassment,medium,human_review,"Comment contains a direct personal insult ('dickweed') and accusatory language that could constitute harassment, though it appears to be in context of a platform dispute.",MED,True
+Get a proper job kilt lifter,1,0.1837957410335575,SAFE,ALLOW,harassment,medium,human_review,"Contains a potentially derogatory ethnic slur ('kilt lifter' typically targeting Scottish people) combined with demeaning language about employment, constituting targeted harassment.",MED,True
+"Mermaid: The Body Found rewrite 
+
+Hi. Thanks for making that sentence about giant squid completely inaccurate you goddamn simpleton. Go home.",1,0.1721404123695077,SAFE,ALLOW,harassment,medium,human_review,"Comment contains direct personal insults ('goddamn simpleton') and hostile dismissal ('Go home'), constituting targeted harassment over a content dispute.",MED,True
+"""
+I'm not being cocky, bud. Not all these redlinks will be embraced with notability. NOT ALL. That is what you fail to realize, The singling out of Turgeon is ridiculous. Your stubborness has started a disagreement. Now, for the last time: REMAINS ON PAGE UNTIL JANUARY WHEN ME AND WWGB CLEAN THE PAGE UP. I think you can understand that. (Not being snide, FYI). ''''  22:56 24 December 2010 (UTC)""",1,0.0692922788336128,SAFE,ALLOW,harassment,low,downrank,"Comment contains aggressive tone with capitalized text suggesting yelling and confrontational language toward another user, though not severely abusive.",LOW,True
+"Thanks
+Thanks for participating in the conspiracy against me.",1,0.067601053731368,SAFE,ALLOW,harassment,low,human_review,"The comment expresses paranoid ideation about a conspiracy which could be directed harassment or simply expressing personal feelings, requiring human judgment to assess context and intent.",MED,True
+"""
+
+Hi. It's from the same user who was changing the images before on similar articles. Not to mention that, both images are good resolutions, contrary to what the user says, which is why I don't see the need to change images, delete galleries and remove content. It's unnecessary.   
+It is nevertheless a content dispute. Neither the repeated switching of images nor the edit summaries that you consider misleading amount to vandalism, per Wikipedia:Vandalism#Types of vandalism and Wikipedia:Vandalism#What is not vandalism.  Donald Albury 
+
+It was vandalism, but not mine.  Your images have extremely bad lighting and are not encyclopedic quality in the least.  One of them replaced a photo of a street in the article for that street Brickell Avenue and doesn't even show the street.  THE ARTICLE IS ABOUT THE STREET.  Also, you're supposed to answer a talk on the same page (Yours') that it initiated on, not put the answer on the initiators page so there are 2 half conversations on two separate pages.  I suggest you read a bit more about Wikipedia rules and stop vandalizing articles with your crappy poor lighting amateur photography from car windows.  66.176.139.222  """,1,0.1106425561470527,SAFE,ALLOW,harassment,medium,human_review,"Comment contains personal attacks calling another user's contributions 'crappy poor lighting amateur photography' and repeatedly criticizing their work in a hostile manner, though it's in context of a legitimate content dispute.",MED,True
+"""
+
+ I'm BUMED !!!!!!!!!!! 
+
+Danny, I'M PISSED, that your NOT on Adam Crolla show any longer.
+
+I feel that the """"AC show"""" is slipping away now
+that your gone!  Will we be seeing/hearing from
+you anytime soon?
+
+Hang in there Bud...teddy  tmieske@gmail.com 
+
+If you know someone that can use PC help, checkout
+my two sites out:
+
+ http://techurls.tripod.com/      < for PC Help
+
+ http://elecurls.tripod.com/      < for wan'na-bee Hobbyist or Engineers
+                                      This site is somewhat new, so few 
+                                      links; but I have hundreds of links to 
+                                      add... 
+
+I live in Fairfield, CA  (45 miles from Sac., CA)
+
+l8r  -teddy""",1,0.0866244438532986,SAFE,ALLOW,spam,low,downrank,"Comment contains unsolicited self-promotion with personal contact information and business links, though the primary content is a legitimate fan message.",LOW,True
+"Ah, such adorable mutual e-fellatio",1,0.1877970451633557,SAFE,ALLOW,sexual_content,low,downrank,"Contains crude sexual terminology used metaphorically to describe mutual praise, which is vulgar but not explicitly graphic or targeted harassment.",LOW,True
+"""
+
+Are you missing a chromosome or something. it has been confirmed.  It was confirmed by the Professional Tennis Tour that when the rankings are updated on the 11th, Marry will become number 3.  They also went on to CONFIRM that no matter what happens, Novak will NOT be able to retain the number 3 ranking.  
+
+Do you feel like a big man now.  """"Expect to hear from me again"""" what a looser.""",1,0.0220116928271012,SAFE,ALLOW,harassment,medium,human_review,"Contains personal attacks including an ableist insult ('missing a chromosome'), condescending language, and mocking tone that constitutes harassment, though context of the dispute is unclear.",MED,True
+"Section Removal 
+
+Next time you remove a section without first following procedures, I will have you permanently barred from Wikipedia.  I wrote the section and it is completely accurate an unbiased as reported.  You are a fool and a vandal and I will be closely monitoring your activities on anything I write.",1,0.1213895983386696,SAFE,ALLOW,harassment,medium,human_review,"Comment contains personal attacks ('fool and a vandal'), threats of punishment ('permanently barred'), and intimidating monitoring behavior, which constitute harassment in a collaborative editing environment.",MED,True
+"He is a Rapist!!!!!
+Please edit the article to include this important fact. Thank You.",1,0.0694031407694287,SAFE,ALLOW,harassment,high,auto_block,"The comment makes a serious criminal accusation without evidence, which constitutes defamation and targeted harassment that could cause significant harm to the named individual's reputation.",HIGH,True
+REPEATING MYSELF AGAIN ~ LEAVE ME ALONE YOU PSYCHO STALKING WEIRDO!!  I've asked you to leave me alone for nearly a week now and you just can't back off.  What is your problem?,1,0.1295748044436702,SAFE,ALLOW,harassment,medium,human_review,"Content contains aggressive language and allegations of stalking behavior, suggesting an ongoing interpersonal conflict that requires context to determine if it constitutes actionable harassment.",MED,True
+"""List of hoolie firms // Denmark ==
+Hello. Removing mentions of firms such as Southside United (one of the original firms in Denmark) that actually is mentioned in the source, albeit misspelled """"South Side United"""" by some scummy journalist cunt who's research probably was two coppers and a google search, while keeping Blue Front which could be seen as their youth group, as well as Squad 92 which ALSO is mentioned in the source article, does not make any sense whatsoever. Removing CC Youth Division could make a bit more sense, but the group is also mentioned in the article, though as Young Boys which simply is an old name. So please, stop your amateurish source-checks, where you remove firms that actually are mentioned in the given sources and are generally a fucking cunt. Thank you in advance.
+
+== """,1,0.1210434099224284,SAFE,ALLOW,harassment,high,auto_block,"Comment contains multiple instances of aggressive profanity and direct personal attacks calling another user a 'scummy journalist cunt' and 'fucking cunt', which constitutes severe harassment.",HIGH,True
+You are toooo G***Y to answer on your OWN TALK PAGE. LOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOL,1,0.1195771298469258,SAFE,ALLOW,harassment,medium,human_review,"Contains a slur directed at a specific user with mocking language that could constitute targeted harassment, though context of the conversation would help determine severity.",MED,True
+Ricky81682 (talk)  MUST be investigated right fukkin now. This profile has protected Bermender since day fukkin ONE.,1,0.1941605669251303,SAFE,ALLOW,harassment,medium,human_review,"Comment contains aggressive language with profanity directed at a specific user, making accusations that could constitute targeted harassment, though lacks extreme threats or hate speech.",MED,True
+"YOU ARE NOT INVITED - NEVER COME BACK! 
+
+..to my talk. YOU ARE HARASSING!",1,0.188218943226827,SAFE,ALLOW,harassment,medium,human_review,"The comment contains aggressive exclusionary language and explicit harassment accusations, though context about whether this is legitimate boundary-setting or actual harassment is unclear.",MED,True
+You are rude and insensible. I will not deal with any user who does not know what they are doing. -,1,0.1321868276016352,SAFE,ALLOW,harassment,low,downrank,Comment contains mildly hostile language and personal attacks but does not rise to severe harassment or threats.,LOW,True
+"Link replaced with official Paul Murphy website - where an identical statement is found. These ARE his words, the link is verifiable (and the information is a lot more relevant and deserving of note here than one old apologist's spiteful opinion). You are a LIAR and you know it; your edits are only ever to remove positive info about the convoy or insert more Israeli POV. And you just happen to have the hebrew translation of your name on your page. The other edit nazi on this forum has a Jewish Barnstar. I'm sure none of this is related ;)
+
+Continue tampering with this information and it will be treated as VANDALISM.",1,0.0539024113754248,SAFE,ALLOW,harassment,high,auto_block,"Contains direct personal attacks calling user a 'LIAR', antisemitic conspiracy theorizing about Jewish editors, and threatening language about 'vandalism' and 'edit nazi'.",HIGH,True
+MATTYTHEWHITE IS A SADCASE PLEASE GO TO BED,1,0.1828442703363939,SAFE,ALLOW,harassment,low,downrank,"The comment directly targets a specific user with a mild insult ('sadcase'), which constitutes low-level harassment, though it lacks severe abusive language or credible threats.",LOW,True
+"Pete, piss off. Macosal asked a polite question. I happen to know (a fair bit of) the answer, so I gave him a polite answer. I hope it helps him understand. I'm not pretending that I have sources for all of this. I'm not asking that it be added to the article. I'm sharing knowledge. It's something I do. Reject it if you choose. I cannot comprehend why you would, but people surprise me every day. (Oh, and there's little opinion in my post. Most of it is pure fact. A fact is still a fact whether it's sourced or not.)",1,0.1697114923107863,SAFE,ALLOW,harassment,low,downrank,"Comment opens with a hostile dismissal ('piss off') directed at another user, though the remainder is argumentative rather than abusive.",LOW,True
+"You unemployed hatchet men seem to have objections (part of general aversion to the truth) about being referred to as NDP attack queers. How about, Cabal of Sanctimonious Hypocrites? Is that better? Now go get a job.",1,0.1480407804956873,SAFE,ALLOW,harassment,high,auto_block,Contains targeted harassment using derogatory slurs and hostile language directed at a specific group.,HIGH,True
+"No you understand me uncorrectly because your very deformed common sense is ready to lead you to immediate ending of discussion by indefinitely blocking of opponent. I understand that you may to do so because you're a kind of odd person with some administrative rights.  It is not my intention, but your and only your assumption that, because you're a lesbian, I am not going to ever follow Wikipedia's rules. I only said that it's very pity that humans like you are aimed to use any possibility to teach not only odd persons.",1,0.1750704718399083,SAFE,ALLOW,harassment,medium,human_review,"Comment contains personal attacks including calling someone 'deformed,' 'odd person,' and making references to their sexual orientation in a confrontational context, which constitutes harassment but lacks extreme threats or hate speech.",MED,True
+"""
+Sorry if you think they are """"inappropriate"""", but these are your actions....so I guess your actions are in effect inappropriate. -  (VT) 
+
+Meatpuppet
+You are a meat puppet, you have been confirmed a meatpuppet, the tag stands. -  (VT) """,1,0.1300843064794987,SAFE,ALLOW,harassment,medium,human_review,Comment contains potentially derogatory term 'meatpuppet' used in a confrontational manner that may constitute personal attack depending on platform context and community norms.,MED,True
+CONNOLLEY YOU ARE VAIN IN THE EXTREME,1,0.1552026076735709,SAFE,ALLOW,harassment,low,downrank,"The comment uses all caps and contains a personal attack calling someone vain, which constitutes mild harassment but lacks severe threatening or abusive language.",LOW,True
+"""
+
+ False inormation in the article 
+As you would expect, the propagandists would say and do everything to mislead us. They once again proved themselfs to be the proven LIARS we alreayd knew they were since the article wrongly states that the darker picture with the """"fall-off"""" effects is the edited one, which is pure BS.
+
+The original photo is the one with the """"fall-off"""" effect which was printed in The West Australian already back in august 2, 1969 (~6 min in this clip http://www.youtube.com/watch?v=lMuTiziCszU) while the lighten up picture is the EDITED version who came out much later. So unless the propaganda trolls cant find a version of THEIR claimed original version dated EARLIER than august second 1969, i suggest them to SHUTUP.
+
+Proven fake: http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Aldrin_Apollo_11_original.jpg/179px-Aldrin_Apollo_11_original.jpg
+
+Original: http://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Aldrin_Apollo_11.jpg/180px-Aldrin_Apollo_11.jpg  — Preceding unsigned comment added by 91.145.38.53   
+Youtube is not a reliable source for information about a conspiracy theory. Is there a reliable source available that supports your claim?   
+
+ The Buzz Alrdin photo is explained at Examination_of_Apollo_Moon_photographs#Issues with crosshairs in photos.   You talkin' to me? 
+
+The video shows a guy holding up the actual newspaper from 2 aug 1969 to prove that the """"fall-off"""" picture is how the original one looked like, but then its youtube who isnt a reliable source!?  your desperate try for making a point is laughable... but i wouldnt expect more from a propaganda TROLL.  — Preceding unsigned comment added by 91.145.38.53   
+
+ No, that newspaper doesn't show what the original one looks like.  The original is a transparency that is in NASA's vaults.  They made prints that were widely reprinted. See this for more information.  You talkin' to me? 
+
+Bullshit! excuses from NASA wont make it true! you have the history of that picture in the video i linked to and even the NASA site you linked to shows the fact that the darker picture is the first one, the original from 1969, while the more lighten edited version came out 1975. So why you arguing? you dont have a chance here. As i said, BRING UP a picture dated earlier than 2 aug 1969 or SHUTUP - its that simple!
+
+91.145.38.53, please stop insulting other editors and please sign your posts, just put four tildes at the end .   
+
+I dont tolerating having my talk session closed, this is what the propagandists do? censoring their opponents!
+Unless the propagandists cant bring up the picture THEY claim to be the original together with a date which needs to be earlier than second of august 1969, i will change the article. False misleading information should never be tolerated! Its already proven that the """"fall-off"""" darker version IS the original. If anyone wants to argue, then bring up! 91.145.38.53  
+
+ The propaganda liars 
+This article is beyond laughable! Since the propagandists trash talking and like to """"debunk"""" ppl like Bart Sibrel, Ralph Rene, and Bill Kaysing (with no evidence to debunk them, however) we should debunk the LIARS the propagandists listen to!  """"youtube is not a reliable source"""" the propagandists says... still they link to youtube videos themselfs to suit their false propaganda in a desperate act to try prove THEIR laughable points. So if they can link to youtube videos, i will do the same just to prove that THEIR sources are nothing else than FALSE PROPAGANDA. Using proven liars like Jay Windley, Phil Plait, and Svectors youtube series as some kinda evidence is laughable.  I think that these trolls needs their own section! lets see what kinda ppl who is behind the sites that the propagandists always links to. Its time to face their cl",1,0.1277470739400995,SAFE,ALLOW,harassment,medium,human_review,"Content contains repeated hostile language calling others 'LIARS', 'propaganda trolls', and 'propagandists' in an aggressive manner that constitutes harassment, though it appears in the context of a content dispute rather than targeted personal attacks.",MED,True
+"Big Wang 
+Sometimes, I prefer to insert a phallus into my rectum.  Do you think we could do this together?  -Wangbot 1.2",1,0.1360309762349766,SAFE,ALLOW,sexual_content,medium,auto_block,Contains explicit sexual content and an unsolicited sexual proposition that violates community standards.,HIGH,True
+"Welcome Faggot!
+
+Welcome!
+
+Hello, , and welcome to Wikipedia! Thank you for your contributions. I hope you like the place and decide to stay. Here are a few good links for newcomers:
+The five pillars of Wikipedia
+How to edit a page
+Help pages
+Tutorial
+How to write a great article
+Manual of Style
+I hope you enjoy editing here and being a Wikipedian! Please sign your name on talk pages using four tildes (~~~~); this will automatically produce your name and the date. If you need help, check out Wikipedia:Questions, ask me on my talk page, or place {{helpme}} on your talk page and someone will show up shortly to answer your questions. Again, welcome!",1,0.0183391029889597,SAFE,ALLOW,hate_speech,high,auto_block,"The comment opens with a homophobic slur used as a direct address, constituting clear hate speech regardless of the benign Wikipedia template text that follows.",HIGH,True
+"""
+ If I was rude https://www.youtube.com/watch?v=-bYAQ-ZZtEU#t=120 The people from outside start mock you for this strange rule """"reliable sources"""". Do you see some other source even NOW, except me, to talk about SUICIDE with DATA?! Show me it.   """,1,0.0772020396207503,SAFE,ALLOW,self_harm,medium,human_review,"Comment references suicide and data in an agitated manner with a YouTube link, requiring human review to assess context and determine if this is harmful content, advocacy discussion, or research-related discourse.",MED,True
+"September 2009 (UTC)
+
+Look Agent Orange, I don't care any more. It's *EXPLETIVE DELETED* people such as yourself that make Wikipedia such a shoddy source of misinformation. Write whatever you like, and keep living inside that dark dank Watchtower. However, you're mistaken on the long list of authors for the CV article. Hey, have a riot. *Yawn*
+
+  20:20, 7",1,0.1887463488423845,SAFE,ALLOW,harassment,medium,human_review,"Comment contains personal attacks and hostile language directed at another user ('Agent Orange', 'dark dank Watchtower') with a dismissive and aggressive tone, though profanity is self-censored.",MED,True
+"""
+
+==SUSPICIOUS MASS EDITS-IS ANY ADMINISTRATOR FOLLOWING SPYLAB'S """"EDITING""""?
+
+Can anybody tell me who gave the right to this guy under the pseudonym spylab to behave like the master of wikipedia, deleting my comment I uploaded yesterday here and ignoring the comments of other users, despite the fact they were based on wikipedia policy, according to which he cannot introduce mass changes to an entry without generating a discussion first in the talk page about the changes he suggested? Evidence was produced by other users to show that he LIED when he said that he did just a simple copy-editing, as it was shown that he deleted sentences, and that he distorted the meaning of other phrases, simply because he has no clue about the Inclusive Democracy project.Despite all this, he comes back again and again adding/deleting and """"re-organizing"""" at will this entry. Has anybody appointed him to do this damaging work, which far from enhancing the significance of wikipedia, it creates the impression that any ignoramus can do whatever he likes with long-established entries?86.161.205.18  """,1,0.083327906191518,SAFE,ALLOW,harassment,medium,human_review,"Comment contains aggressive language targeting a specific user ('ignoramus', accusations of lying) in a Wikipedia editing dispute, which crosses into personal attacks rather than constructive criticism.",MED,True
+"""
+
+You have the medicated gaul Mr.  to the say that considering stuff like this when in the past you have said nice stuff like this about Peter and the voters of the 6th. and your inner feelings about them.
+
+""""As for the results in my own district, I'm not merely disappointed; I'm disgusted. This isn't about party politics, or my team losing; this is about humancy (sic) decency, ethics and principles. The principles of a majority of Sixth district voters appear to be greed and racism. A candidate, no matter how personally disgusting or devoid of decency, no matter how base or illegal his tactics, merely needs to promise to lower taxes and keep the Mexicans out in order to win. This race was a good example of how people let their conscience be cowed and overrun by corporate, amoral propagandists who are out to make a buck at the expense of the voters. My district has elected a racist, corrupt sophist over an able, virtuous war hero, and I am ashamed of them.""""Goethean, November 2006 see it here. I think this shows your intense dislike for Peter Roskam and it could call in the question your POV regarding Peter Roskam's NPOV Biography -  also, I have seen you do a lot of """"Cleansing"""" your self on Democratic Office holders bios like Tammy Duckworth. So your a bit disingenuous for you to throw out contentious cracks like that MR.  It could be argued that your point of view is skewed bit left.
+Note: It is not a personal attack to point out MR Goethean POV since he loves to point out that to others. Is that do what I say, and not what I do? Any rate, I disagree with your ownership of this subject.  """,0,0.1328692984312002,SAFE,ALLOW,harassment,low,downrank,"Comment contains personal attacks and accusatory language directed at a specific user including questioning their credibility and calling them disingenuous, though it relates to content moderation disputes rather than severe harassment.",LOW,True
+"Re: Illogical Bans==
+
+While I certainly do sympathize with your plight, you must understand that these wiki self-important overlord are nothing more than jackasses with too much time on there hands.  This guy will never admit he has made a mistake.  At best he will offer you the same invitation he has made to me and countless others  submit your page again and take your chances.  Good luck...
+
+==",0,0.0772263416930252,SAFE,ALLOW,harassment,low,downrank,"Contains name-calling and derogatory language toward moderators ('jackasses', 'self-important overlord') but lacks direct threats or severe targeted harassment.",LOW,True
+"Articles are written upon sources, the only one speculating is you, this is the same Russian habits as in all articles like how many where murdered in Katyn?, How many perished in Gulag? How many tank where lost in Kursk. I cant help that you dont trust Finnish sources, but together with what you have written here earlier you dont have much creddit. 
+Kantakoskis book covers the Soviet armoured in whole Soviet during 1918-1945 and should not by any mean be seen a a prim source for Tail-Ihantal battle. BTW his research fail to identify many of the armoured units in Karelia 1944. Prim sources are Manninen and Kosikmaa who rehearsed the main subject both with  high academic skill.
+Your tags will be removed soon if you dont come up with better facts.",0,0.0497102745366096,SAFE,ALLOW,harassment,low,downrank,"Comment contains dismissive personal attacks questioning another user's credibility and making nationality-based accusations about dishonesty, creating a hostile discussion environment.",LOW,True
+"How proud I am to be a Greek!
+
+I am a Greek Nationalist this is nothing to be ashamed of, I believe in fascism and a strong leader, and let me first say that I despise Turks, I have changed the image section to include what I believe is a wider variety of great Greeks from the ages. I really wanted to include Constantine XI or other Byzantine but I couldn't. Perhaps we can work something out?",0,0.0689595289532922,SAFE,ALLOW,hate_speech,high,auto_block,"Content explicitly expresses ethnic hatred ('I despise Turks') and promotes fascism, violating hate speech policies.",HIGH,True
