@@ -128,15 +128,18 @@ streamlit run app.py
 ---
 
 ## 📁 Project Structure
+
+```text
 content-safety-classifier/
-├── data/                  # Jigsaw toxic comments dataset
-├── models/                # Saved model, vectorizer, eval data
+├── data/                         # Jigsaw toxic comments dataset
+├── models/                       # Saved model, vectorizer, eval data
 ├── notebooks/
-│   ├── 01_ml_model.ipynb        # TF-IDF + LR training
-│   ├── 02_claude_rater.ipynb    # Claude API integration
-│   └── 03_analysis.ipynb        # Charts and metrics
-├── app.py                 # Streamlit demo
+│   ├── 01_ml_model.ipynb         # TF-IDF + Logistic Regression training
+│   ├── 02_claude_rater.ipynb     # Claude API integration
+│   └── 03_analysis.ipynb         # Charts and metrics
+├── app.py                        # Streamlit demo
 └── requirements.txt
+```
 
 ---
 
