@@ -15,6 +15,7 @@ Content moderation at scale requires both speed and nuance. A single ML model mi
 
 ## 🏗️ System Architecture
 
+```mermaid
 flowchart TD
     A[User Comment]
 
@@ -31,6 +32,7 @@ flowchart TD
 
     E -- Yes --> F[Human Review Queue]
     E -- No --> G[Final Output]
+```
 ---
 
 ## 📸 Screenshots
