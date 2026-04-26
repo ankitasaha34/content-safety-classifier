@@ -15,30 +15,22 @@ Content moderation at scale requires both speed and nuance. A single ML model mi
 
 ## 🏗️ System Architecture
 
-User Comment
-     │
-     ▼
-┌──────────────────────────────────────┐
-│  ML Classifier                        │
-│  TF-IDF + Logistic Regression         │
-│  Trained on 127K comments             │
-│  Output: ml_prob + risk_bucket        │
-└──────────────────┬───────────────────┘
-                   │
-                   ▼
-┌──────────────────────────────────────┐
-│  Claude API                           │
-│  Policy taxonomy classification       │
-│  Output: category + severity +        │
-│  reasoning                            │
-└──────────────────┬───────────────────┘
-                   │
-                   ▼
-┌──────────────────────────────────────┐
-│  Disagreement Detection Layer         │
-│  Flags overblocking / underblocking   │
-│  Routes to human review queue         │
-└──────────────────────────────────────┘
+flowchart TD
+    A[User Comment]
+
+    A --> B[ML Classifier]
+    B --> B1[TF-IDF + Logistic Regression]
+    B1 --> B2[ml_prob + risk_bucket]
+
+    B2 --> C[Claude API]
+    C --> C1[Policy Taxonomy Classification]
+    C1 --> C2[category + severity + reasoning]
+
+    C2 --> D[Disagreement Detection]
+    D --> E{Disagreement?}
+
+    E -- Yes --> F[Human Review Queue]
+    E -- No --> G[Final Output]
 
 ---
 
